@@ -1,0 +1,25 @@
+html, body {
+    text-align: center;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    font-family: "Adobe Garamond Pro Bold", Georgia, 'Times New Roman', Times, serif;
+    font-size: 13px;
+    color: #061C37;
+    background: #25060B url;
+    background-repeat: repeat-x;
+}
+* {
+    margin: 0 auto 0 auto;
+    text-align: left;
+}
+nav{
+    display: block;
+}
+body {
+    display: block;
+    margin: 8px;
+}
