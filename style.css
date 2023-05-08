@@ -4,11 +4,11 @@ body {
     
 }
 
-hr{
+/* hr{
     height: 20px;
     background-color: black;
 
-}
+} */
 body {
     margin: 0;
     padding: 0;
@@ -62,7 +62,7 @@ h1{
     margin:20px auto 0 auto;
     z-index: -1;
     color:#000;
-    margin-left: -500px;
+    margin-left: -1000px;
     background-color: #000;
     top: 50px;
     
@@ -82,8 +82,7 @@ body {
 nav{
     display: flex;
     justify-content: flex-start;
-    max-width: 650px;
-    /* border:60px; */
+    max-width: 650px;    
     color: #160306;
     position: relative;
     right: 14px;
